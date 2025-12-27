@@ -64,4 +64,4 @@ I actively contribute to open-source projects, write about performance optimizat
 ---
 
 ### 📈 GitHub Stats
-![Komron's GitHub stats](https://github-readme-stats.vercel.app/api?username=koma2211&show_icons=true&theme=radical)
+[![Komron's GitHub stats](https://github-readme-stats.vercel.app/api?username=koma2211)](https://github.com/anuraghazra/github-readme-stats)
