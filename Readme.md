@@ -64,4 +64,5 @@ I actively contribute to open-source projects, write about performance optimizat
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koma2211&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=koma2211&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=koma2211&layout=compact&theme=radical)
